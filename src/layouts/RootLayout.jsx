@@ -7,7 +7,9 @@ const RootLayout = () => {
     <>
       <div className="bg-red-50 max-w-lg mx-auto">
         <HeaderLayout />
-        <Outlet />
+        <main className="min-h-screen p-3">
+          <Outlet />
+        </main>
         <FooterLayout />
       </div>
     </>
