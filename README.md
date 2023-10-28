@@ -1,8 +1,30 @@
-# React + Vite
+# 120140163 UTS PWL FRONTEND
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Cara menjalankan
 
-Currently, two official plugins are available:
+peringatan: pastikan server backend sudah berjalan, jika belum silahkan lihat di instrusi di repository [backend](https://github.com/martatiaamanda/120140163-uts-pwl-backend)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone repository ini
+2. Buka terminal dan arahkan ke folder repository ini
+3. Jalankan perintah `npm install`
+4. Jalankan perintah `npm start`
+
+### Hasil
+
+Berikut beberapa hasil screenshot dari aplikasi ini
+
+#### Beranda
+
+![Beranda](./ss/beranda.png)
+
+#### Tambah Produk
+
+![Tambah Produk](./ss/tambah.png)
+
+#### Edit Produk
+
+![Edit Produk](./ss/edit.png)
+
+#### Detail Produk
+
+![Detail Produk](./ss/detail.png)
